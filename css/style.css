@@ -159,3 +159,14 @@ li:hover {
 .card p {
   text-align: center;
 }
+
+/* Footer */
+footer {
+  margin: 1.5em 1em 1em 1em;
+  padding-top: 2em;
+  height: 10em;
+  background: #eee;
+  text-align: center;
+  font-size: 1.3em;
+  font-family: Arial, Helvetica, sans-serif;
+}
