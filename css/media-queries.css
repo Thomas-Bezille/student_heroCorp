@@ -1,0 +1,28 @@
+/* Tablet */
+@media screen and (min-width: 480px) {
+  h2 {
+    font-size: 2rem;
+  }
+  h3 {
+    font-size: 1.6rem;
+  }
+  main {
+    margin: 0 3em;
+  }
+  .logo img {
+    width: 10em;
+  }
+  footer {
+    font-size: 1em;
+  }
+}
+
+/* Desktop */
+@media screen and (min-width: 1280px) {
+  main {
+    margin: 0 8em;
+  }
+  .logo img {
+    width: 15em;
+  }
+}
